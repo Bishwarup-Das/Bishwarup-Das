@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bishwarup-Das](https://github.com/Bishwarup-Das)
 
-- 💬 Ask me about **Machine Learning and Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning, Android Development and WebD**
 
 - 📫 How to reach me **bishwarupdas.gts@gmail.com**
 
