@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/bishwarup-das-278110239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishwarup-das-278110239" height="30" width="40" /></a>
 <a href="https://kaggle.com/bishwarupdas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bishwarupdas1" height="30" width="40" /></a>
 <a href="https://fb.com/bishwarup.das.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishwarup.das.10" height="30" width="40" /></a>
-<a href="https://instagram.com/roman___gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roman___gaming" height="30" width="40" /></a>
+<a href="https://instagram.com/r0man.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roman___gaming" height="30" width="40" /></a>
 <a href="https://discord.gg/ROMAN◥⫸_⫷◤#6616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ROMAN◥⫸_⫷◤#6616" height="30" width="40" /></a>
 </p>
 
